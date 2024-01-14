@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-LABEL maintainer="Andreas Peters <support@aventer.biz>"
+LABEL maintainer="NetherKids <github@netherkids.de>"
 
 COPY ./ /home/node
 
